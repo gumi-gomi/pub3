@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c479a088.css",
+    "main.js": "./static/js/main.64d6a027.js",
+    "static/media/tradimg1.webp": "./static/media/tradimg1.62ffbd72094d0bac6352.webp",
+    "static/media/menu3.webp": "./static/media/menu3.fbb60d7496c7a8f350df.webp",
+    "static/media/middlebg.webp": "./static/media/middlebg.018bfd5e8babdf02817d.webp",
+    "static/media/main1.webp": "./static/media/main1.92037cd9ad7b9d70e81a.webp",
+    "static/media/menu2.webp": "./static/media/menu2.f0b7e9550e2f104d7602.webp",
+    "static/media/interimg3.webp": "./static/media/interimg3.e1845b818c54cd954086.webp",
+    "static/media/menu1.webp": "./static/media/menu1.4a227b55b1a6cbc18158.webp",
+    "static/media/interimg1.webp": "./static/media/interimg1.8ece3d9c5ab2e061fe10.webp",
+    "static/media/tradimg3.webp": "./static/media/tradimg3.99a0e95e89349e788f2c.webp",
+    "static/media/tradimg2.webp": "./static/media/tradimg2.41da496e0deb83729c22.webp",
+    "static/media/menu4.webp": "./static/media/menu4.2f0b0cddff0ec7b7d9ee.webp",
+    "static/media/interimg2.webp": "./static/media/interimg2.2b304d9e58b9c98db635.webp",
+    "static/media/gamengimg.webp": "./static/media/gamengimg.7a84d98896a9a1a08d22.webp",
+    "static/media/intro1.webp": "./static/media/intro1.f67bd91398f8c4b93720.webp",
+    "static/media/smallbg.webp": "./static/media/smallbg.ceab576a41b08b641bf4.webp",
+    "static/media/main3.webp": "./static/media/main3.e0429b17761cf6847836.webp",
+    "static/media/traditionbg.webp": "./static/media/traditionbg.973d34ce9d5c5323e9f7.webp",
+    "static/media/leftbg.webp": "./static/media/leftbg.644bfadce2889c324c60.webp",
+    "static/media/menubg.webp": "./static/media/menubg.40dab8187714bb481e5b.webp",
+    "static/media/mapbg.webp": "./static/media/mapbg.d4a6bad07878a52e909c.webp",
+    "static/media/contactimg.webp": "./static/media/contactimg.39a7889a5d02ec8b5309.webp",
+    "static/media/grand.webp": "./static/media/grand.e1b818f217ab4e33f456.webp",
+    "static/media/arrow.webp": "./static/media/arrow.eb6cc1423776334a9743.webp",
+    "index.html": "./index.html",
+    "main.c479a088.css.map": "./static/css/main.c479a088.css.map",
+    "main.64d6a027.js.map": "./static/js/main.64d6a027.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c479a088.css",
+    "static/js/main.64d6a027.js"
+  ]
+}
