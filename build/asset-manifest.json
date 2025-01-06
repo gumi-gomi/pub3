@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.c479a088.css",
-    "main.js": "./static/js/main.64d6a027.js",
+    "main.js": "./static/js/main.5a9f7c29.js",
     "static/media/tradimg1.webp": "./static/media/tradimg1.62ffbd72094d0bac6352.webp",
     "static/media/menu3.webp": "./static/media/menu3.fbb60d7496c7a8f350df.webp",
     "static/media/middlebg.webp": "./static/media/middlebg.018bfd5e8babdf02817d.webp",
@@ -19,6 +19,7 @@
     "static/media/smallbg.webp": "./static/media/smallbg.ceab576a41b08b641bf4.webp",
     "static/media/main3.webp": "./static/media/main3.e0429b17761cf6847836.webp",
     "static/media/traditionbg.webp": "./static/media/traditionbg.973d34ce9d5c5323e9f7.webp",
+    "static/media/main4.webp": "./static/media/main4.be1998d6dc056ec422e5.webp",
     "static/media/leftbg.webp": "./static/media/leftbg.644bfadce2889c324c60.webp",
     "static/media/menubg.webp": "./static/media/menubg.40dab8187714bb481e5b.webp",
     "static/media/mapbg.webp": "./static/media/mapbg.d4a6bad07878a52e909c.webp",
@@ -27,10 +28,10 @@
     "static/media/arrow.webp": "./static/media/arrow.eb6cc1423776334a9743.webp",
     "index.html": "./index.html",
     "main.c479a088.css.map": "./static/css/main.c479a088.css.map",
-    "main.64d6a027.js.map": "./static/js/main.64d6a027.js.map"
+    "main.5a9f7c29.js.map": "./static/js/main.5a9f7c29.js.map"
   },
   "entrypoints": [
     "static/css/main.c479a088.css",
-    "static/js/main.64d6a027.js"
+    "static/js/main.5a9f7c29.js"
   ]
 }
